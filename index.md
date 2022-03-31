@@ -1,12 +1,12 @@
 ## Welcome to Wang Qiange's Home Pages
 
-[editor on GitHub](https://github.com/Wangqge/Wangqge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## PhD Student
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently I am a 5th-year PhD candidate at NEU (China) under the superivision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/zh_CN/zsxx/39659/list/index.htm).
+
 
 ### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ### Project
