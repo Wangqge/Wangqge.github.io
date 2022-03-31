@@ -4,7 +4,7 @@
 
 Currently I am a 5th-year PhD candidate at NEU (China) under the superivision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/zh_CN/zsxx/39659/list/index.htm).
 
-Email: wangqiange**at**stumail**dot**neu**dot**edu.cn
+Email: wangqiange **at** stumail **dot** neu **dot** edu.cn
 ### Publications
 
 Qiange Wang, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu [Distributed GNN Training with Hybrid Dependency Management](https://dl.acm.org/doi/10.1145/3514221.3526134), To be appear at SIGMOD 2022.
