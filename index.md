@@ -15,7 +15,7 @@ Currently I am a 5th-year PhD candidate at [NEU (China)](http://english.neu.edu.
 
 \[***APWEB'20***\] Jing Chen, Yu Gu, **Qiange Wang**, Chuanwen Li, Ge Yu. partition-oriented subgraph matching on GPU, APWEB-WAIM 2020:pp 53–68 **(Best Paper Runner-up)**
 
-\[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  [Hao Wang](https://www.sites.google.com/site/hwang121), Liang Geng, Rubao Lee, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://dl.acm.org/doi/10.1145/3318464.3389712), SIGMOD 2020:2439-2454.[\[slide\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
+\[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  [Hao Wang](https://www.sites.google.com/site/hwang121), Liang Geng, Rubao Lee, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://dl.acm.org/doi/10.1145/3318464.3389712), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
 
 
 ### Project
