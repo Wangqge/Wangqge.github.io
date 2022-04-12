@@ -8,11 +8,11 @@ Currently I am a 5th-year PhD candidate at [NEU (China)](http://english.neu.edu.
 
 ### Education
 
-Sep. 2017- Present
-**Ph.D. student in Computer Science**
+Sep. 2017- Present\n
+**Ph.D. student in Computer Science**\n
 Northeastern University, China    
 
-Sep. 2013 - June 2017
+Sep. 2013 - June 2017  
 **B.S. in Computer Science**  
 Northeastern University, China
 
