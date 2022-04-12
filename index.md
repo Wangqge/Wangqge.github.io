@@ -1,4 +1,4 @@
-## Welcome to Wang Qiange's(王千阁) Home Pages
+## Welcome to Wang Qiange's(王千阁) Home Page
 
 ### PhD Student
 
