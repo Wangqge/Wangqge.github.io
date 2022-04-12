@@ -33,3 +33,7 @@ Northeastern University, China
 [PowerLog(SIGMOD'20)](https://github.com/Wangqge/PowerLog_ae) 
 
 [NeutronStar(SIGMOD'22)](https://github.com/Wangqge/NeutronStarLite)
+
+### Awards
+National Scholarship 2020
+
