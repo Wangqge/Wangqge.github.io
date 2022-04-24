@@ -2,7 +2,7 @@
 
 ### PhD Student
 
-Currently I am a 5th-year PhD student at [NEU (China)](http://english.neu.edu.cn/) under the superivision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/zh_CN/zsxx/39659/list/index.htm).
+Currently I am a 5th-year PhD student at [NEU (China)](http://english.neu.edu.cn/) under the superivision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm).
 
 I'm interested in distributed and parallel graph processing systems.
 
