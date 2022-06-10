@@ -15,7 +15,7 @@ Sep. 2017- Present\
 Northeastern University, China    
 
 Sep. 2013 - June 2017\
-**B.S. in Computer Science**\
+**B.Eng in Computer Science**\
 Northeastern University, China
 
 ### Publications
@@ -36,4 +36,5 @@ Northeastern University, China
 
 ### Awards
 National Scholarship 2020
+APWEB-WAIM 2020 Best Paper Runner-up
 
