@@ -11,7 +11,7 @@ I'm interested in building distributed and parallel graph processing systems.
 ### Education
 
 Sep. 2017- Present\
-**Ph.D. student in Computer Science**\
+**Ph.D. student in Computer Software and Theory**\
 Northeastern University, China    
 
 Sep. 2013 - June 2017\
@@ -35,7 +35,7 @@ Northeastern University, China
 [NeutronStar(SIGMOD'22)](https://github.com/Wangqge/NeutronStarLite)
 
 ### Awards
-National Scholarship 2020
+National Scholarship of China 2020
 
 APWEB-WAIM 2020 Best Paper Runner-up
 
