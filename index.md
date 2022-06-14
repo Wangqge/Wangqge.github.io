@@ -22,7 +22,7 @@ Northeastern University, China
 
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, [Hao Wang](https://www.sites.google.com/site/hwang121), Chaoyi Chen, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://dl.acm.org/doi/10.1145/3514221.3526134), to appear at SIGMOD 2022 (Data Managemet Track).
 
-\[***WWWJ'21***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU, WWWJ 2021(an extended version of the paper accepted by APWEB-WAIM 2020)
+\[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
 \[***APWEB'20***\] Jing Chen, Yu Gu, **Qiange Wang**, Chuanwen Li, Ge Yu. partition-oriented subgraph matching on GPU, APWEB-WAIM 2020:pp 53–68 **(Best Paper Runner-up)**
 
