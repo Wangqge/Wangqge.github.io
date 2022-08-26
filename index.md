@@ -2,7 +2,7 @@
 
 ### PhD Student
 
-Currently I am a 5th-year PhD student at [NEU (China)](http://english.neu.edu.cn/) under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I have worked closely with Prof. [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) over the past four years.  
+Currently I am a 5th-year PhD student at [NEU (China)](http://english.neu.edu.cn/) under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I worked closely with Prof. [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to 2022.  
 
 I'm interested in building distributed and parallel graph processing systems.
 
@@ -18,7 +18,13 @@ Sep. 2013 - June 2017\
 **B.Eng in Computer Science**\
 Northeastern University, China
 
+### News
+
+One paper accepted by ICDE 2023!
+
 ### Publications
+
+\[\***ICDE‘23***} **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. SEP-Graph++ GPU-accelerated Graph Processing with Hybrid Transfer Management.[\[code]\](https://github.com/iDC-NEU/SEP-GraphPP)
 
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, [Hao Wang](https://www.sites.google.com/site/hwang121), Chaoyi Chen, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://dl.acm.org/doi/10.1145/3514221.3526134), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf).
 
