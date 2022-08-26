@@ -24,7 +24,7 @@ One paper was accepted by ICDE 2023!
 
 ### Publications
 
-\[\***ICDE‘23***} **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. SEP-Graph++ GPU-accelerated Graph Processing with Hybrid Transfer Management.[\[code]\](https://github.com/iDC-NEU/SEP-GraphPP)
+\[\***ICDE‘23***} **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. SEP-Graph++ GPU-accelerated Graph Processing with Hybrid Transfer Management.[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP).
 
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, [Hao Wang](https://www.sites.google.com/site/hwang121), Chaoyi Chen, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://dl.acm.org/doi/10.1145/3514221.3526134), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf).
 
