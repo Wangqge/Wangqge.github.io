@@ -1,26 +1,26 @@
 ## Welcome to Wang Qiange's(王千阁) Home Page
 
-### PhD Student
+### Postdoc Research Fellow.
 
-Currently I am a 5th-year PhD student at [NEU (China)](http://english.neu.edu.cn/) under the supervision of Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I have worked closely with Prof. [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to now.  
+Currently I am a postdoc research fellow working with [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/index.html) at NUS [Xtra computing group](https://github.com/Xtra-Computing/). I received my Ph.D. degree in computer science from [Northeastern University (China)](http://english.neu.edu.cn/) supervised by Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I worked closely with Prof. [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to 2022.  
 
 I'm interested in building distributed and parallel graph processing systems. I am also interested in GPU-accelerated data management.
 
-***Email***: wangqiange **AT** stumail **DOT** neu **DOT** edu **DOT** cn
+***Email***: wangqiange94 **AT** gmail **DOT** com
 
 ### Education
 
-Sep. 2017- Present\
+Sept 2017- June 2022\
 **Ph.D. student in Computer Software and Theory**\
 Northeastern University, China    
 
-Sep. 2013 - June 2017\
+Sept 2013 - June 2017\
 **B.Eng in Computer Science**\
 Northeastern University, China
 
 ### News
 
-One paper was accepted by ICDE 2023!
+Sept 27 2022: One paper was accepted by ICDE 2023!
 
 ### Publications
 
@@ -36,9 +36,12 @@ One paper was accepted by ICDE 2023!
 
 
 ### Project
-[PowerLog(SIGMOD'20)](https://github.com/Wangqge/PowerLog_ae) 
+
+[PowerLog(SIGMOD'20)](https://github.com/Wangqge/PowerLog_ae)
 
 [NeutronStar(SIGMOD'22)](https://github.com/Wangqge/NeutronStarLite)
+
+[SEP-Graph++(ICDE'23)](https://github.com/iDC-NEU/SEP-GraphPP)
 
 ### Awards
 National Scholarship of China 2020
