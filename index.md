@@ -1,6 +1,6 @@
 ## Welcome to Wang Qiange's(王千阁) Home Page
 
-### Postdoc Research Fellow.
+### About
 
 Currently I am a postdoc research fellow working with [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/index.html) at NUS [Xtra computing group](https://github.com/Xtra-Computing/). I received my Ph.D. degree in computer science from [Northeastern University (China)](http://english.neu.edu.cn/), supervised by Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I worked closely with Prof. [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to 2022.  
 
@@ -15,7 +15,7 @@ Sept 2017- June 2022\
 Northeastern University, China    
 
 Sept 2013 - June 2017\
-**B.Eng in Computer Science**\
+**Undergraduate student in Computer Science**\
 Northeastern University, China
 
 ### News
