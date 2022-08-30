@@ -20,7 +20,7 @@ Northeastern University, China
 
 ### News
 
-Sept 27 2022: One paper is accepted by ICDE 2023!
+Aug. 27 2022: One paper is accepted by ICDE 2023!
 
 ### Publications
 
