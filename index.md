@@ -41,7 +41,7 @@ Aug 2022: One paper is accepted by ICDE 2023!
 
 [NeutronStar(SIGMOD'22)](https://github.com/Wangqge/NeutronStarLite)
 
-[SEP-Graph++(ICDE'23)](https://github.com/iDC-NEU/SEP-GraphPP)
+[HyTGraph(ICDE'23)](https://github.com/iDC-NEU/SEP-GraphPP)
 
 ### Awards
 National Scholarship of China 2020
