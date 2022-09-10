@@ -6,7 +6,7 @@ Currently I am a postdoc research fellow working with [Bingsheng He](https://www
 
 I'm interested in building distributed and parallel graph processing systems. I am also interested in GPU-accelerated data management.
 
-***Email***: wangqiange **AT** stumail **DOT** neu **DOT** edu **DOT** cn
+***Email***: wang.qg **AT** nus **DOT** edu **DOT** sg
 
 ### Education
 
