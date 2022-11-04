@@ -8,6 +8,7 @@ I'm interested in building distributed and parallel graph processing systems. I 
 
 ***Email***: wang.qg **AT** nus **DOT** edu **DOT** sg
 
+***Google Scholar*** [Wang Qiange](https://scholar.google.com/citations?hl=en&user=3x9auS0AAAAJ)
 ### Education
 
 Sept 2017- June 2022\
