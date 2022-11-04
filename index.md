@@ -8,9 +8,9 @@ I'm interested in building distributed and parallel graph processing systems. I 
 
 ***Email***: wang.qg **AT** nus **DOT** edu **DOT** sg
 
-***Google Scholar*** [Qiange Wang ](https://scholar.google.com/citations?hl=en&user=3x9auS0AAAAJ)
+***Google Scholar***: [Qiange Wang ](https://scholar.google.com/citations?hl=en&user=3x9auS0AAAAJ)
 
-***DBLP*** [Qiange Wang](https://dblp.uni-trier.de/pid/260/4305.html)
+***DBLP***: [Qiange Wang](https://dblp.uni-trier.de/pid/260/4305.html)
 
 ### Education
 
