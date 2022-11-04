@@ -2,3 +2,10 @@ theme: jekyll-theme-minimal
 title: Wang Qian-ge
 logo: https://wangqge.github.io/proxy-qiange.jpg
 description: Postdoc at SoC, NUS
+
+author:
+  name             : "Qiange Wang  \n王千阁"
+  bio              : "Research Fellow at School of Computing, National University of Singapore"
+  location         : "Singapore"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3x9auS0AAAAJ"
+  email            :  "wang.qg AT nus DOT edu DOT sg"
