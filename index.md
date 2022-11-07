@@ -22,10 +22,6 @@ Sept 2013 - June 2017\
 **Undergraduate student in Computer Science**\
 Northeastern University, China
 
-### News
-
-Aug 2022: One paper is accepted by ICDE 2023!
-
 ### Publications
 
 \[***ICDE‘23***\] **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. [HyTGraph: GPU-accelerated Graph Processing with Hybrid Transfer Management.](https://arxiv.org/abs/2208.14935)[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP)
@@ -51,4 +47,5 @@ Aug 2022: One paper is accepted by ICDE 2023!
 National Scholarship of China 2020
 
 APWEB-WAIM 2020 Best Paper Runner-up
+
 
