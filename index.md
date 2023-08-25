@@ -1,4 +1,4 @@
-![image](https://github.com/Wangqge/Wangqge.github.io/assets/23595241/83547a19-5747-434b-8a5c-0c1524ddcb97)## Welcome to Wang Qiange's(王千阁) Home Page
+## Welcome to Wang Qiange's(王千阁) Home Page
 
 ### About
 
@@ -55,6 +55,7 @@ PC member: ICDE 2024
 
 Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024
 
+Journal Reviewer: The Journal of Supercomputing
 
 
 
