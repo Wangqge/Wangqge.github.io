@@ -1,4 +1,4 @@
-## Welcome to Wang Qiange's(王千阁) Home Page
+![image](https://github.com/Wangqge/Wangqge.github.io/assets/23595241/83547a19-5747-434b-8a5c-0c1524ddcb97)## Welcome to Wang Qiange's(王千阁) Home Page
 
 ### About
 
@@ -24,15 +24,20 @@ Northeastern University, China
 
 ### Publications
 
+\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs] (Accepted)
+
 \[***ICDE‘23***\] **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. [HyTGraph: GPU-accelerated Graph Processing with Hybrid Transfer Management.](https://github.com/Wangqge/Wangqge.github.io/blob/main/wang_hytgraph_icde2023.pdf)[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP)
 
-\[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, [Hao Wang](https://www.sites.google.com/site/hwang121), Chaoyi Chen, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://github.com/Wangqge/Wangqge.github.io/blob/main/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf).
+\[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://github.com/Wangqge/Wangqge.github.io/blob/main/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf).
+
+\[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
+ 
+;\[***VLDB‘24***\] Feng Yao, Qian Tao, Wenyuan Yu, Yanfeng Zhang, Shufeng Gong, **Qiange Wang**, Ge Yu, Jingren Zhou. [RAGraph: A Region-Aware Framework for Geo-Distributed Graph Processing] (Accepted)
+
 
 \[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
 \[***APWEB'20***\] Jing Chen, Yu Gu, **Qiange Wang**, Chuanwen Li, Ge Yu. partition-oriented subgraph matching on GPU, APWEB-WAIM 2020:pp 53–68 **(Best Paper Runner-up)**
-
-\[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  [Hao Wang](https://www.sites.google.com/site/hwang121), Liang Geng, Rubao Lee, [Xiaodong Zhang](https://web.cse.ohio-state.edu/~zhang.574/), Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
 
 
 ### Project
@@ -47,5 +52,14 @@ Northeastern University, China
 National Scholarship of China 2020
 
 APWEB-WAIM 2020 Best Paper Runner-up
+
+### Professional Services
+PC member: ICDE 2024
+
+Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024
+
+Journal Reviewer: The Journal of Supercomputing
+
+
 
 
