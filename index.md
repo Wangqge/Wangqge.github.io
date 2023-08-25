@@ -55,7 +55,6 @@ PC member: ICDE 2024
 
 Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024
 
-Journal Reviewer: The Journal of Supercomputing
 
 
 
