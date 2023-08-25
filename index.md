@@ -31,9 +31,6 @@ Northeastern University, China
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://github.com/Wangqge/Wangqge.github.io/blob/main/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf).
 
 \[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
- 
-;\[***VLDB‘24***\] Feng Yao, Qian Tao, Wenyuan Yu, Yanfeng Zhang, Shufeng Gong, **Qiange Wang**, Ge Yu, Jingren Zhou. [RAGraph: A Region-Aware Framework for Geo-Distributed Graph Processing] (Accepted)
-
 
 \[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
