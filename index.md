@@ -32,6 +32,10 @@ Northeastern University, China
 
 \[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
 
+\[***VLDB'24***\] Chaoyi Chen, Dechao Gao, Yanfeng Zhang, **Qiange Wang**, Zhenbo Fu, Xuecang Zhang, Junhua Zhu, Yu Gu, Ge Yu. [NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams](Accept)
+
+\[***VLDB'24***\]  Feng Yao, Qian Tao, Wenyuan Yu, Yanfeng Zhang, Shufeng Gong, **Qiange Wang**, Ge Yu, and Jingren Zhou.  [RAGraph: A Region-Aware Framework for Geo-Distributed Graph Processing] (Accepted)
+
 \[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
 \[***APWEB'20***\] Jing Chen, Yu Gu, **Qiange Wang**, Chuanwen Li, Ge Yu. partition-oriented subgraph matching on GPU, APWEB-WAIM 2020:pp 53–68 **(Best Paper Runner-up)**
@@ -49,6 +53,8 @@ Northeastern University, China
 National Scholarship of China 2020
 
 APWEB-WAIM 2020 Best Paper Runner-up
+
+
 
 ### Professional Services
 PC member: ICDE 2024
