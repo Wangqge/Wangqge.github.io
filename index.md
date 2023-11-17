@@ -24,7 +24,7 @@ Northeastern University, China
 
 ### Publications
 
-\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)] (Accepted)
+\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)] (Accepted)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD246_hongtu.pdf)
 
 \[***ICDE‘23***\] **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. [HyTGraph: GPU-accelerated Graph Processing with Hybrid Transfer Management.](https://github.com/Wangqge/Wangqge.github.io/blob/main/wang_hytgraph_icde2023.pdf)[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/wang_hytgraph_icde2023.pdf)
 
