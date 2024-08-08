@@ -26,15 +26,23 @@ Northeastern University, China
 
 \[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD246_hongtu.pdf) (Accepted)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD246_hongtu.pdf)
 
+\[***SIGMOD‘24***\] Wei Zhang, Cheng Chen, **Qiange Wang**, Wei Wang, Shijiao Yang, Bingyu Zhou, Huiming Zhu, Chao Chen, Yongjun Zhao, Yingqian Hu, Miaomiao Cheng, Meng Li, Hongfei Tan, Mengjin Liu, Hexiang Lin, Shuai Zhang, Lei ZHang. BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance.
+
+\[***VLDB'24***\] Xin Ai, **Qiange Wang**, Chunyu Cao, Yanfeng Zhang,  Chaoyi Chen, Hao Yuan, Ge Yu. NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments.
+
+\[***VLDB'24***\] Hao Yuan, Yajiong Liu, Yanfeng Zhang, Xin Ai, **Qiange Wang**, Chaoyi Chen, Yu Gu, Ge Yu. Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective 
+
+\[***VLDB'24***\] Chaoyi Chen, Dechao Gao, Yanfeng Zhang, **Qiange Wang**, Zhenbo Fu, Xuecang Zhang, Junhua Zhu, Yu Gu, Ge Yu. [NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams.] 
+
+\[***VLDB'24***\]  Feng Yao, Qian Tao, Wenyuan Yu, Yanfeng Zhang, Shufeng Gong, **Qiange Wang**, Ge Yu, and Jingren Zhou.  [RAGraph: A Region-Aware Framework for Geo-Distributed Graph Processing] 
+
 \[***ICDE‘23***\] **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. [HyTGraph: GPU-accelerated Graph Processing with Hybrid Transfer Management.](https://github.com/Wangqge/Wangqge.github.io/blob/main/wang_hytgraph_icde2023.pdf)[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/wang_hytgraph_icde2023.pdf)
 
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://github.com/Wangqge/Wangqge.github.io/blob/main/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/moddm433-wang%20(1).pdf).
 
 \[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)[\[paper\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/mod0374-wangA.pdf)
 
-\[***VLDB'24***\] Chaoyi Chen, Dechao Gao, Yanfeng Zhang, **Qiange Wang**, Zhenbo Fu, Xuecang Zhang, Junhua Zhu, Yu Gu, Ge Yu. [NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams.] (Accept)
 
-\[***VLDB'24***\]  Feng Yao, Qian Tao, Wenyuan Yu, Yanfeng Zhang, Shufeng Gong, **Qiange Wang**, Ge Yu, and Jingren Zhou.  [RAGraph: A Region-Aware Framework for Geo-Distributed Graph Processing] (Accepted)
 
 \[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
@@ -61,7 +69,8 @@ PC member: ICDE 2024
 
 Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024
 
-Journal Reviewer: The Journal of Supercomputing
+Journal Reviewer: The Journal of Supercomputing TKDE
+
 
 
 
