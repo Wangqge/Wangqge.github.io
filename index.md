@@ -24,7 +24,7 @@ Northeastern University, China
 
 ### Publications
 
-\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD246_hongtu.pdf) (Accepted)[\[paper\]](https://wangqge.github.io/MOD246_hongtu.pdf)
+\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://wangqge.github.io/MOD246_hongtu.pdf) (Accepted)[\[paper\]](https://wangqge.github.io/MOD246_hongtu.pdf)
 
 \[***SIGMOD‘24***\] Wei Zhang, Cheng Chen, **Qiange Wang**, Wei Wang, Shijiao Yang, Bingyu Zhou, Huiming Zhu, Chao Chen, Yongjun Zhao, Yingqian Hu, Miaomiao Cheng, Meng Li, Hongfei Tan, Mengjin Liu, Hexiang Lin, Shuai Zhang, Lei ZHang. BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance [\[paper\]](https://wangqge.github.io/BG3_SIGMOD24.pdf).
 
@@ -38,7 +38,7 @@ Northeastern University, China
 
 \[***ICDE‘23***\] **Qiange Wang**, Xin Ai, Yanfeng Zhang, Jing Chen, Ge Yu. [HyTGraph: GPU-accelerated Graph Processing with Hybrid Transfer Management.](https://wangqge.github.io/wang_hytgraph_icde2023.pdf)[\[code\]](https://github.com/iDC-NEU/SEP-GraphPP)[\[paper\]](https://wangqge.github.io/wang_hytgraph_icde2023.pdf)
 
-\[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://wangqge.github.io/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://github.com/Wangqge/Wangqge.github.io/blob/main/MOD_433_v12.pdf)[\[paper\]](https://wangqge.github.io/moddm433-wang%20(1).pdf).
+\[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://wangqge.github.io/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315 [\[slides\]](https://wangqge.github.io/MOD_433_v12.pdf)[\[paper\]](https://wangqge.github.io/moddm433-wang%20(1).pdf).
 
 \[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://wangqge.github.io/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[slides\]](https://wangqge.github.io/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)[\[paper\]](https://wangqge.github.io/mod0374-wangA.pdf)
 
