@@ -24,7 +24,14 @@ Northeastern University, China
 
 ### Publications
 
-\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://wangqge.github.io/MOD246_hongtu.pdf) (Accepted)[\[pdf\]](https://wangqge.github.io/MOD246_hongtu.pdf)
+\[***VLDB‘2025***\] Xin Ai, Hao Yuan, Zeyu Ling, **Qiange Wang**, Yanfeng Zhang, Zhenbo Fu, Chaoyi Chen, Yu Gu, Ge Yu. NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism  (CCF A) 
+Proceedings of the VLDB Endowment (PVLDB 2025), London, United Kingdom, 2025.
+
+\[***TPDS‘24***\] 
+Feng Yao, Qian Tao, Shengyuan Lin, Yanfeng Zhang, Wenyuan Yu, Shufeng Gong, **Qiange Wang**, Ge Yu, and Jingren Zhou. Towards Efficient Graph Processing in Geo-Distributed Data Centers.
+IEEE Transactions on Parallel and Distributed Systems (TPDS).
+
+\[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://wangqge.github.io/MOD246_hongtu.pdf) [\[pdf\]](https://wangqge.github.io/MOD246_hongtu.pdf)
 
 \[***SIGMOD‘24***\] Wei Zhang, Cheng Chen, **Qiange Wang**, Wei Wang, Shijiao Yang, Bingyu Zhou, Huiming Zhu, Chao Chen, Yongjun Zhao, Yingqian Hu, Miaomiao Cheng, Meng Li, Hongfei Tan, Mengjin Liu, Hexiang Lin, Shuai Zhang, Lei ZHang. BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance [\[pdf\]](https://wangqge.github.io/BG3_SIGMOD24.pdf).
 
@@ -41,8 +48,6 @@ Northeastern University, China
 \[***SIGMOD'22***\] **Qiange Wang**, Yanfeng Zhang, Hao Wang, Chaoyi Chen, Xiaodong Zhang, Ge Yu. [NeutronStar:Distributed GNN Training with Hybrid Dependency Management](https://wangqge.github.io/moddm433-wang%20(1).pdf), SIGMOD 22:1301-1315[\[pdf\]](https://wangqge.github.io/moddm433-wang%20(1).pdf)  [\[slides\]](https://wangqge.github.io/MOD_433_v12.pdf)
 
 \[***SIGMOD'20***\] **Qiange Wang**, Yanfeng Zhang,  Hao Wang, Liang Geng, Rubao Lee, Xiaodong Zhang, Ge Yu. [Automating Incremental and Asynchronous Evaluation for Recursive Aggregate Data Processing](https://wangqge.github.io/mod0374-wangA.pdf), SIGMOD 2020:2439-2454.[\[pdf\]](https://wangqge.github.io/mod0374-wangA.pdf) [\[slides\]](https://wangqge.github.io/MOD_374_v3_1.pdf)[\[code\]](https://github.com/Wangqge/PowerLog_ae)
-
-
 
 \[***WWWJ'22***\] Jing Chen, **Qiange Wang**, Yu Gu, Chuanwen Li, Ge Yu. [Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU](https://link.springer.com/article/10.1007/s11280-021-00952-w), World Wide Web 25, pages 1377–1402 (2022). 
 
