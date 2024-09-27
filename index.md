@@ -33,7 +33,7 @@ IEEE Transactions on Parallel and Distributed Systems (TPDS).
 
 \[***SIGMOD‘24***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, and Bingsheng He. [HongTu: Scalable Full-Graph GNN Training on Multiple GPUs (via communicated-optimized CPU data offloading)](https://wangqge.github.io/MOD246_hongtu.pdf) [\[pdf\]](https://wangqge.github.io/MOD246_hongtu.pdf)
 
-\[***SIGMOD‘24***\] Wei Zhang, Cheng Chen, **Qiange Wang**, Wei Wang, Shijiao Yang, Bingyu Zhou, Huiming Zhu, Chao Chen, Yongjun Zhao, Yingqian Hu, Miaomiao Cheng, Meng Li, Hongfei Tan, Mengjin Liu, Hexiang Lin, Shuai Zhang, Lei ZHang. BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance [\[pdf\]](https://wangqge.github.io/BG3_SIGMOD24.pdf).
+\[***SIGMOD‘24***\] Wei Zhang, Cheng Chen, **Qiange Wang**, Wei Wang, Shijiao Yang, Bingyu Zhou, Huiming Zhu, Chao Chen, Yongjun Zhao, Yingqian Hu, Miaomiao Cheng, Meng Li, Hongfei Tan, Mengjin Liu, Hexiang Lin, Shuai Zhang, Lei ZHang. [BG3: A Cost Effective and I/O Efficient Graph Database in ByteDance](https://wangqge.github.io/BG3_SIGMOD24.pdf) [\[pdf\]](https://wangqge.github.io/BG3_SIGMOD24.pdf).
 
 \[***VLDB'24***\] Xin Ai, **Qiange Wang**, Chunyu Cao, Yanfeng Zhang,  Chaoyi Chen, Hao Yuan, Ge Yu. NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments.
 
