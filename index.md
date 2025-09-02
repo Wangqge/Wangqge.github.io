@@ -24,13 +24,13 @@ Northeastern University, China
 
 ### Publications
 
-\[***TACO‘2025***\]Xin Ai, Bing Zhang, Qiange Wang#, Yanfeng Zhang#, Hao Yuan, Shufeng Gong, Ge Yu. NeutronAscend: Optimizing GNN Training with Ascend AI Processors. Accepted.
+\[***TACO‘2025***\]Xin Ai, Bing Zhang, **Qiange Wang**, Yanfeng Zhang, Hao Yuan, Shufeng Gong, Ge Yu. NeutronAscend: Optimizing GNN Training with Ascend AI Processors. Accepted.
 
-\[***SIGMOD‘2026***\] Hao Yuan, Xin Ai, Qiange Wang, Peizheng Li, Jiayang Yu, Chaoyi Chen, Xinbo Yang, Yanfeng Zhang, Zhenbo Fu, Yingyou Wen, Ge Yu. DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention.SIGMOD 2026 accepted
+\[***SIGMOD‘2026***\] Hao Yuan, Xin Ai, **Qiange Wang**, Peizheng Li, Jiayang Yu, Chaoyi Chen, Xinbo Yang, Yanfeng Zhang, Zhenbo Fu, Yingyou Wen, Ge Yu. DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention.SIGMOD 2026 accepted
 
-\[***SIGMOD‘2026***\](Chunyu Cao), Xin Ai, Qiange Wang, Yanfeng Zhang, Zhenbo Fu, Hao Yuan, Mingyi Cao, Chaoyi Chen, Yingyou Wen, Yu Gu, Ge Yu. NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters. SIGMOD 2026 Accepted.
+\[***SIGMOD‘2026***\]Chunyu Cao, Xin Ai, **Qiange Wang**, Yanfeng Zhang, Zhenbo Fu, Hao Yuan, Mingyi Cao, Chaoyi Chen, Yingyou Wen, Yu Gu, Ge Yu. NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters. SIGMOD 2026 Accepted.
 
-\[***VLDB‘2026***\] Mingyi Cao, Chunyu Cao,Yanfeng Zhang, Zhenbo Fu, Xin Ai, Qiange Wang, Yu Gu, Ge Yu. NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments, Accepted.
+\[***VLDB‘2026***\] Mingyi Cao, Chunyu Cao,Yanfeng Zhang, Zhenbo Fu, Xin Ai, **Qiange Wang**, Yu Gu, Ge Yu. NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments, Accepted.
 
 \[***SIGMOD‘2025***\] Jiaxin Jiang, Siyuan Yao, Yuchen Li, **Qiange Wang**, Bingsheng He and Min Chen. [Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs](https://dl.acm.org/doi/10.1145/3725287). ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2025) 
 
