@@ -82,6 +82,10 @@ IEEE Transactions on Parallel and Distributed Systems 35(11): 2147-2160 (2024)
 
 ### Awards
 
+Second Prize in Natural Sciences, China Computer Society (6/6)
+
+Excellent doctoral dissertations of Northeastern University
+
 National Scholarship of China 2020
 
 APWEB-WAIM 2020 Best Paper Runner-up
