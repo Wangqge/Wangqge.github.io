@@ -93,7 +93,7 @@ APWEB-WAIM 2020 Best Paper Runner-up
 
 
 ### Professional Services
-PC member: ICDE 2024
+PC member: ICDE 2024，APWEB-WAIM 2025
 
 Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024
 
