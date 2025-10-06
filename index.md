@@ -82,7 +82,7 @@ IEEE Transactions on Parallel and Distributed Systems 35(11): 2147-2160 (2024)
 
 ### Awards
 
-Second Prize in Natural Sciences, China Computer Society (6/6)
+Second Prize in Natural Sciences, China Computer Federation (中国计算机学会自然科学二等奖)
 
 Excellent doctoral dissertations of Northeastern University
 
