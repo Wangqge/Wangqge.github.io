@@ -93,11 +93,28 @@ APWEB-WAIM 2020 Best Paper Runner-up
 
 
 ### Professional Services
-PC member: ICDE 2024，APWEB-WAIM 2025, PAKDD 2026
+**PC member:** 
 
-Subreviewer: EDBT/DATE/VLDB 2023, SIGMOD 2024,Eurosys 2026
+2024: ICDE; 
 
-Journal Reviewer:  TKDE,TC, The Journal of Supercomputing
+2025: APWEB-WAIM;
+
+2026: PAKDD; ICDE Demo Track;
+
+**Journal Reviewer:**  
+
+Transactions on Knowledge and Data Engineering;
+
+Transactions on Computers;
+
+Journal of System and Architecture;
+
+Computer Networks;
+
+The Journal of Supercomputing;
+
+**Sub-/Invited reviewer:** 
+EDBT/DATE/VLDB 2023, SIGMOD 2024,Eurosys 2026
 
 
 
