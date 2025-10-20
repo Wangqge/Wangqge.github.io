@@ -32,7 +32,11 @@ Northeastern University, China
 
 \[***VLDB‘2026***\] Mingyi Cao, Chunyu Cao,Yanfeng Zhang, Zhenbo Fu, Xin Ai, **Qiange Wang**, Yu Gu, Ge Yu. NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments, Accepted.
 
+\[***FCS‘2026***\]Kefu Chen, Xin Ai, **Qiange Wang**, Yanfeng Zhang, Ge Yu. AcOrch: accelerating sampling-based GNN training under CPU-NPU heterogeneous environments.
+
 \[***SIGMOD‘2025***\] Jiaxin Jiang, Siyuan Yao, Yuchen Li, **Qiange Wang**, Bingsheng He and Min Chen. [Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs](https://dl.acm.org/doi/10.1145/3725287). ACM SIGMOD/PODS International Conference on Management of Data (SIGMOD 2025) 
+
+\[***SIGMOD‘2025 Demo***\] Peizheng Li, Chaoyi Chen, Hao Yuan, Zhenbo Fu, Hang Shen, Xinbo Yang, **Qiange Wang**, Xin Ai, Yanfeng Zhang, Yingyou Wen, Ge Yu: NeutronRAG: Towards Understanding the Effectiveness of RAG from a Data Retrieval Perspective.
 
 \[***VLDB‘2025***\] **Qiange Wang**, Yongze Yan, Hongshi Tan, Cheng Chen, Cheng Zhao, Jiaming Tian, Jiaxin Jiang, Xiaoliang Cong, Yanfeng Zhang, Ge Yu,
 Weng-Fai Wong, and Bingsheng He. [Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing](https://wangqge.github.io/VLDB2025_Grapin.pdf).
@@ -44,6 +48,8 @@ Weng-Fai Wong, and Bingsheng He. [Efficient Graph Data Access for Out-of-Memory 
 \[***TKDE‘2025***\] **Qiange Wang**, Yao Chen, Weng-Fai Wong, Bingsheng He. [Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs](https://ieeexplore.ieee.org/document/10955266). IEEE Trans. Knowl. Data Eng. 37(7): 4239-4253 (2025)
 
 \[***TPDS‘2025***\] **Qiange Wang**, Xin Ai, Yongze Yan, Shufeng Gong, Yanfeng Zhang, Jing Chen, Ge Yu. [Towards Communication-Efficient Out-of-Core Graph Processing on the GPU.](https://ieeexplore.ieee.org/document/10909336) IEEE Transactions on Parallel and Distributed Systems (TPDS), 2025, 36(5): 961-976.
+
+\[***KBS‘2025***\] Yajiong Liu, Yanfeng Zhang, **Qiange Wang**, Hao Yuan, Xin Ai, Ge Yu: NeutronSketch: An in-depth exploration of redundancy in large-scale graph neural network training
 
 \[***TPDS‘24***\] 
 Feng Yao, Qian Tao, Shengyuan Lin, Yanfeng Zhang, Wenyuan Yu, Shufeng Gong, **Qiange Wang**, Ge Yu, and Jingren Zhou. [Towards Efficient Graph Processing in Geo-Distributed Data Centers](https://ieeexplore.ieee.org/document/10663840)
