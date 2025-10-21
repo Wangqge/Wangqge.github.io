@@ -113,7 +113,7 @@ Transactions on Knowledge and Data Engineering;
 
 Transactions on Computers;
 
-Journal of System and Architecture;
+Journal of Systems Architecture;
 
 Computer Networks;
 
