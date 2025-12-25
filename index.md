@@ -7,7 +7,11 @@ Currently I am a postdoc research fellow working with [Bingsheng He](https://www
 
 I will join [Northeastern University in China](http://english.neu.edu.cn/) in 2026 spring.
 
-Research interests: parallel graph processing/learning system; Graph-based RAG; Graph data agents; Data processing/mangament on GPUs and NPU.
+Research interests:\\
+parallel graph processing/learning system;\\
+Graph-based RAG;\\
+Graph data agents;\\
+Data processing/mangament on GPUs and NPU.
 
 ***Email***: \
 wang.qg **AT** nus **DOT** edu **DOT** sg (this email will expire soon)\
