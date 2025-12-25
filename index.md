@@ -9,8 +9,9 @@ I will join [Northeastern University in China](http://english.neu.edu.cn/) in 20
 
 Research interests: parallel graph processing/learning system; Graph-based RAG; Graph data agents; Data processing/mangament on GPUs and NPU.
 
-***Email***: wang.qg **AT** nus **DOT** edu **DOT** sg (this email will expire soon)
-            wangqiange94  **AT**  gmail **DOT** com  (A temporary address before starting work at NEU)
+***Email***: 
+wang.qg **AT** nus **DOT** edu **DOT** sg (this email will expire soon)
+wangqiange94  **AT**  gmail **DOT** com  (A temporary address before starting work at NEU)
 
 ***Google Scholar***: [Qiange Wang ](https://scholar.google.com/citations?hl=en&user=3x9auS0AAAAJ)
 
