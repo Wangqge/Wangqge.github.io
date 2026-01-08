@@ -21,7 +21,7 @@
       "institution": "Northeaster University",
       "location": "Shenyang, China",
       "Supervisor": "Ge Yu (CCF Fellow)",
-      "area": "Graph Data Management and Processing",
+      "area": "Computer Software and theory",
       "studyType": "PhD",
       "startDate": "2017-09",
       "endDate": "2022-07"
@@ -75,12 +75,11 @@
   ],
    "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "TBD",
+      "summary": "TBD",
+      "highlights": ["TBD", "TBD"],
+      "startDate": "20xx-01-01",
+      "endDate": "20yy-01-01"
     }
   ]
 }
