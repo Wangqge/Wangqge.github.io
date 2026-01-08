@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: wqg.jpg
+  image: wqg.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TODO Xinxi Building</p>
