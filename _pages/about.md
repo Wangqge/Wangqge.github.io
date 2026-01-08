@@ -12,7 +12,7 @@ profile:
     <p>TBD Information Building</p>
     <p>Northeastern University, Hunnan Campus</p>
     <p>Shenyang, Liaoning, China</p>
-
+    <p>wangqiang94 [at] gmail [dot] com</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
