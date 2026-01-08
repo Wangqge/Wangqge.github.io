@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>National University of Singapore</a>. School of Computing.
 
 profile:
   align: right
@@ -12,7 +12,6 @@ profile:
     <p>TBD Xinxi Building</p>
     <p>Northeastern University</p>
     <p>Shenyang, Liaoning, China</p>
-    <p>wangqiange94 [at] gmail [dot] com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
