@@ -54,10 +54,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "ICDE 2024",
-        "APWEB 2025",
-        "PAKDD/ ICDE Demo Track 2026",
-        "VLDB 2027"
+        "2024 ICDE",
+        "2025 APWEB-WAIM",
+        "2026 PAKDD/ ICDE Demo Track",
+        "2027 VLDB"
       ]
     },
     {
@@ -65,7 +65,11 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "IEEE TKDE, IEEE TC, Journal of Systems Architecture, Computer Networks, The Journal of Supercomputing"
+        "IEEE TKDE", "IEEE TC", 
+        "Journal of Systems Architecture", 
+        "Computer Networks", 
+        "The Journal of Supercomputing",
+        "Neurocomputing"
       ]
     }
   ],
