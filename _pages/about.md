@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 2 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 Currently I am a postdoc research fellow working with [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/index.html) at NUS [Xtra computing group](https://github.com/Xtra-Computing/). I received my Ph.D. degree in computer science from [Northeastern University (China)](http://english.neu.edu.cn/), supervised by Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I worked closely with Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to 2022. **I will join [Northeastern University in China](http://english.neu.edu.cn/) in 2026 spring.**
