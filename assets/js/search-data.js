@@ -448,7 +448,7 @@ ninja.data = [{
             },},{id: "news-depcache-is-accepted-by-sigmod-2026",
           title: 'DepCache is accepted by SIGMOD 2026',
           description: "",
-          section: "News",},{id: "news-i-will-join-the-department-of-computer-science-at-northeastern-university-china-as-a-faculty-member-at-2026-spring",
+          section: "News",},{id: "news-i-will-join-the-department-of-computer-science-at-northeastern-university-china-as-a-faculty-member-since-2026-spring",
           title: 'I will join the Department of Computer Science at Northeastern University (China) as...',
           description: "",
           section: "News",},{id: "projects-project-1",
