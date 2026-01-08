@@ -12,7 +12,6 @@ profile:
     <p>TBD Information Building</p>
     <p>Northeastern University, Hunnan Campus</p>
     <p>Shenyang, Liaoning, China</p>
-    <p>wangqiang94 [at] gmail [dot] com</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -28,4 +27,4 @@ announcements:
 ---
 
 Currently I am a postdoc research fellow working with [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/index.html) at NUS [Xtra computing group](https://github.com/Xtra-Computing/). I received my Ph.D. degree in computer science from [Northeastern University (China)](http://english.neu.edu.cn/), supervised by Prof. [Ge Yu](http://faculty.neu.edu.cn/yuge/en/index.htm) and Prof. [Yanfeng Zhang](http://faculty.neu.edu.cn/zhangyf/en/index.htm). I worked closely with Prof. [Xiaodong Zhang](https://cse.osu.edu/people/zhang.574) and Dr. [Hao Wang](https://www.sites.google.com/site/hwang121) from 2018 to 2022. **I will join [Northeastern University in China](http://english.neu.edu.cn/) in 2026 spring.**
-My research interest include parallel graph processing/learning system, Graph-based RAG and agents, and data processing/mangament on GPUs and NPU. I am actively looking for self-motivated Master’s and PhD students to join my research group at Fall 2026/2027. If you are interested in my research topics, please reach out to me via email with your CV.
+My research interest include parallel graph processing/learning system, Graph-based RAG and agents, and data processing/mangament on GPUs and NPU. **I am actively looking for self-motivated Master’s and PhD students to join my research group at Fall 2026/2027**. If you are interested in my research, please reach out to me via **wangqiang94 [at] gmail [dot] com** with your CV.
