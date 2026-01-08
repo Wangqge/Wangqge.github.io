@@ -6,7 +6,7 @@ subtitle: <a href='#'>National University of Singapore</a>. School of Computing.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wqg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TBD Xinxi Building</p>
