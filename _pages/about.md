@@ -9,8 +9,10 @@ profile:
   image: wqg.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>TODO Xinxi Building</p>
+    <p>TBD Xinxi Building</p>
     <p>Northeastern University</p>
+    <p>Shenyang, Liaoning, Chian</p>
+
     <p>Shenyang, Liaoning, Chian</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
