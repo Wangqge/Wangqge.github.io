@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join the Department of Computer Science at Northeastern University (China) as a faculty member at 2026 spring.
+I will join the Department of Computer Science at Northeastern University (China) as a faculty member since 2026 spring.
