@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-depcache-is-accepted-by-sigmod-2026",
+          title: 'DepCache is accepted by SIGMOD 2026',
+          description: "",
+          section: "News",},{id: "news-i-will-join-the-department-of-computer-science-at-northeastern-university-china-as-a-faculty-member-at-2026-spring",
+          title: 'I will join the Department of Computer Science at Northeastern University (China) as...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
