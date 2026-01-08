@@ -48,7 +48,7 @@
 
 
 @inproceedings{NeutronRAG_SIGMOD_2025,
-  abbr={SIGMOD 25},
+  abbr={SIGMOD DEMO 25},
   title={NeutronRAG: Towards Understanding the Effectiveness of RAG from a Data Retrieval Perspective},
   author={Li, Peizheng and Chen, Chaoyi and Yuan, Hao and Fu, Zhenbo and Shen, Hang and Yang, Xinbo and Wang, Qiange and Ai, Xin and Zhang, Yanfeng and Wen, Yingyou and others},
   booktitle={Companion of the 2025 International Conference on Management of Data},
@@ -62,7 +62,7 @@
 
 
 @ARTICLE{GPUStreamGraph_TPDS_2025,
-  abbr={TPDS},
+  abbr={TPDS 25},
   author={Wang, Qiange and Ai, Xin and Yan, Yongze and Gong, Shufeng and Zhang, Yanfeng and Chen, Jing and Yu, Ge},
   journal={IEEE Transactions on Parallel and Distributed Systems}, 
   title={Towards Communication-Efficient Out-of-Core Graph Processing on the GPU}, 
@@ -112,7 +112,6 @@
 	issn = {2150-8097},
 	url = {https://doi.org/10.14778/3705829.3705837},
 	doi = {10.14778/3705829.3705837},
-	abstract = {Graph neural networks (GNNs) have emerged as a promising direction. Training large-scale graphs that relies on distributed computing power poses new challenges. Existing distributed GNN systems leverage data parallelism by partitioning the input graph and distributing it to multiple workers. However, due to the irregular nature of the graph structure, existing distributed approaches suffer from unbalanced workloads and high overhead in managing cross-worker vertex dependencies.In this paper, we leverage tensor parallelism for distributed GNN training. GNN tensor parallelism eliminates cross-worker vertex dependencies by partitioning features instead of graph structures. Different workers are assigned training tasks on different feature slices with the same dimensional size, leading to a complete load balance. We achieve efficient GNN tensor parallelism through two critical functions. Firstly, we employ a generalized decoupled training framework to decouple NN operations from graph aggregation operations, significantly reducing the communication overhead caused by NN operations which must be computed using complete features. Secondly, we employ a memory-efficient task scheduling strategy to support the training of large graphs exceeding single GPU memory, while further improving performance by overlapping communication and computation. By integrating the above techniques, we propose a distributed GNN training system NeutronTP. Our experimental results on a 16-node Aliyun cluster demonstrate that NeutronTP achieves 1.29\texttimes{}-8.72\texttimes{} speedup over state-of-the-art GNN systems including DistDGL, NeutronStar, and Sancus.},
 	google_scholar_id={},
 	code={https://github.com/iDC-NEU/NeutronTP},
 	pdf={},
@@ -135,7 +134,9 @@
   code={https://github.com/iDC-NEU/NeutronStarLite},
   pdf={},
   slides={},
-  google_scholar_id={QD3KBmkZPeQC}
+  google_scholar_id={QD3KBmkZPeQC},
+  selected ={true},
+  additional_info={}
 }
 
 @inproceedings{PowerLog_SIGMOD_2020,
@@ -149,7 +150,8 @@
   code={https://github.com/Wangqge/PowerLog_ae},
   pdf={},
   slides={},
-  google_scholar_id={gKiMpY-AVTkC}
+  google_scholar_id={gKiMpY-AVTkC},
+  selected ={true}
 }
 
 
@@ -329,7 +331,8 @@
   pdf={},
   slides={}, 
   google_scholar_id={},
-  publisher={ACM}
+  publisher={ACM},
+  selected ={true}
 }
 
 @article{Hongtu_TKDE_2025,
@@ -402,7 +405,8 @@
   pdf={},
   slides={}, 
   google_scholar_id={},
-  publisher={ACM}
+  publisher={ACM},
+  additional_info={}
 }
 
 @inproceedings{GPUSM_APWEB_2020,
@@ -425,5 +429,6 @@
   pdf={},
   slides={}, 
   google_scholar_id={},
-  publisher={Springr}
+  publisher={Springr},
+  award_name={Best Paper Runner-up}
 }
