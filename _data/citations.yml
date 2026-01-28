@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-01-28'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Survey on large-scale graph neural network systems
     year: '2021'
   3x9auS0AAAAJ:8k81kl-MbHgC:
-    citations: 7
+    citations: 8
     title: 'NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism'
     year: '2024'
   3x9auS0AAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0 (Survey of Data Storage and Query Techniques in Blockchain Systems)"
     year: '2018'
   3x9auS0AAAAJ:IjCSPb-OGe4C:
-    citations: 19
+    citations: 22
     title: 'HyTGraph: GPU-accelerated graph processing with hybrid transfer management'
     year: '2023'
   3x9auS0AAAAJ:KlAtU1dfN6UC:
@@ -66,7 +66,7 @@ papers:
     title: 'NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
-    citations: 21
+    citations: 22
     title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
@@ -82,7 +82,7 @@ papers:
     title: Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing
     year: '2025'
   3x9auS0AAAAJ:_FxGoFyzp5QC:
-    citations: 32
+    citations: 33
     title: 'Hongtu: Scalable full-graph GNN training on multiple gpus'
     year: '2023'
   3x9auS0AAAAJ:d1gkVwhDpl0C:
@@ -110,6 +110,6 @@ papers:
     title: Automating incremental and asynchronous evaluation for recursive aggregate data processing
     year: '2020'
   3x9auS0AAAAJ:ufrVoPGSRksC:
-    citations: 14
+    citations: 15
     title: 'Ragraph: A region-aware framework for geo-distributed graph processing'
     year: '2023'
