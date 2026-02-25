@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-25'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
     citations: 1
     title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 70
+    citations: 71
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
@@ -18,19 +18,19 @@ papers:
     title: 'DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention'
     year: '2025'
   3x9auS0AAAAJ:5nxA0vEk-isC:
-    citations: 16
+    citations: 17
     title: Survey on large-scale graph neural network systems
     year: '2021'
   3x9auS0AAAAJ:8k81kl-MbHgC:
-    citations: 8
-    title: 'NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism'
+    citations: 7
+    title: 'NeutronTP: Load-balanced distributed full-graph GNN training with tensor parallelism'
     year: '2024'
   3x9auS0AAAAJ:9yKSN-GCB0IC:
     citations: 15
-    title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0 (Survey of Data Storage and Query Techniques in Blockchain Systems)"
+    title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0 (Survey of Data Storage and Query Techniques in Blockchain Systems)."
     year: '2018'
   3x9auS0AAAAJ:IjCSPb-OGe4C:
-    citations: 22
+    citations: 23
     title: 'HyTGraph: GPU-accelerated graph processing with hybrid transfer management'
     year: '2023'
   3x9auS0AAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: 'NeutronSketch: An in-depth exploration of redundancy in large-scale graph neural network training'
     year: '2025'
   3x9auS0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 5
     title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0"
     year: '2018'
   3x9auS0AAAAJ:ULOm3_A8WrAC:
@@ -58,15 +58,15 @@ papers:
     title: 'NeutronAscend: Optimizing GNN Training with Ascend AI Processors'
     year: '2025'
   3x9auS0AAAAJ:UebtZRa9Y70C:
-    citations: 1
-    title: Towards Communication-Efficient Out-of-Core Graph Processing on the GPU
+    citations: 2
+    title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
-    citations: 17
-    title: 'NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments'
+    citations: 18
+    title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
-    citations: 22
+    citations: 23
     title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
@@ -75,7 +75,7 @@ papers:
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
     citations: 17
-    title: 'NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams'
+    title: 'NeutronStream: A dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
     citations: 0
@@ -87,11 +87,11 @@ papers:
     year: '2023'
   3x9auS0AAAAJ:d1gkVwhDpl0C:
     citations: 4
-    title: Partition-oriented subgraph matching on gpu
+    title: Partition-oriented subgraph matching on GPU
     year: '2020'
   3x9auS0AAAAJ:kNdYIx-mwKoC:
-    citations: 2
-    title: 'Dupin: A Parallel Framework for Densest Subgraph Discovery in Fraud Detection on Massive Graphs'
+    citations: 3
+    title: 'Dupin: A parallel framework for densest subgraph discovery in fraud detection on massive graphs'
     year: '2025'
   3x9auS0AAAAJ:qjMakFHDy7sC:
     citations: 1
