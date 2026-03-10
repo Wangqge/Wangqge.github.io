@@ -412,7 +412,7 @@ ninja.data = [{
           section: "News",},{id: "news-neutronrt-is-accepted-by-icde-2026",
           title: 'NeutronRT is accepted by ICDE 2026',
           description: "",
-          section: "News",},{id: "news-our-paper-efficient-graph-data-access-for-out-of-memory-gpu-streaming-graph-processing-has-been-selected-as-one-of-the-vldb-2025-best-paper-and-invited-to-submit-an-extended-version-to-a-vldbj-special-issue",
+          section: "News",},{id: "news-our-paper-efficient-graph-data-access-for-out-of-memory-gpu-streaming-graph-processing-has-been-selected-as-one-of-the-vldb-2025-best-papers-and-invited-to-submit-an-extended-version-to-a-vldbj-special-issue",
           title: 'Our paper “Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing” has...',
           description: "",
           section: "News",},{id: "projects-project-1",
