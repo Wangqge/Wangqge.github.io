@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-25'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 71
+    citations: 74
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: Survey on large-scale graph neural network systems
     year: '2021'
   3x9auS0AAAAJ:8k81kl-MbHgC:
-    citations: 7
+    citations: 8
     title: 'NeutronTP: Load-balanced distributed full-graph GNN training with tensor parallelism'
     year: '2024'
   3x9auS0AAAAJ:9yKSN-GCB0IC:
@@ -38,9 +38,13 @@ papers:
     title: "\u5927\u89C4\u6A21\u56FE\u795E\u7ECF\u7F51\u7EDC\u7CFB\u7EDF\u7EFC\u8FF0"
     year: '2021'
   3x9auS0AAAAJ:LkGwnXOMwfcC:
-    citations: 5
+    citations: 7
     title: 'BG3: A Cost Effective and I/O Efficient Graph Database in Bytedance'
     year: '2024'
+  3x9auS0AAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: Towards Autonomous Graph Data Analytics with Analytics-Augmented Generation
+    year: '2026'
   3x9auS0AAAAJ:MXK_kJrjxJIC:
     citations: 1
     title: 'NeutronTask: Scalable and efficient multi-GPU GNN training with task parallelism'
@@ -58,7 +62,7 @@ papers:
     title: 'NeutronAscend: Optimizing GNN Training with Ascend AI Processors'
     year: '2025'
   3x9auS0AAAAJ:UebtZRa9Y70C:
-    citations: 2
+    citations: 3
     title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
@@ -66,7 +70,7 @@ papers:
     title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
-    citations: 23
+    citations: 24
     title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
@@ -74,11 +78,11 @@ papers:
     title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 19
     title: 'NeutronStream: A dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing
     year: '2025'
   3x9auS0AAAAJ:_FxGoFyzp5QC:
@@ -90,7 +94,7 @@ papers:
     title: Partition-oriented subgraph matching on GPU
     year: '2020'
   3x9auS0AAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 'Dupin: A parallel framework for densest subgraph discovery in fraud detection on massive graphs'
     year: '2025'
   3x9auS0AAAAJ:qjMakFHDy7sC:
@@ -98,7 +102,7 @@ papers:
     title: 'Distributed graph processing: techniques and systems'
     year: '2020'
   3x9auS0AAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: Towards Efficient Graph Processing in Geo-Distributed Data Centers
     year: '2024'
   3x9auS0AAAAJ:u-x6o8ySG0sC:
