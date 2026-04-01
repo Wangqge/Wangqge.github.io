@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-01'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
     citations: 2
     title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 74
+    citations: 76
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: "\u5927\u89C4\u6A21\u56FE\u795E\u7ECF\u7F51\u7EDC\u7CFB\u7EDF\u7EFC\u8FF0"
     year: '2021'
   3x9auS0AAAAJ:LkGwnXOMwfcC:
-    citations: 7
+    citations: 8
     title: 'BG3: A Cost Effective and I/O Efficient Graph Database in Bytedance'
     year: '2024'
   3x9auS0AAAAJ:M3ejUd6NZC8C:
@@ -58,7 +58,7 @@ papers:
     title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0"
     year: '2018'
   3x9auS0AAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: 'NeutronAscend: Optimizing GNN Training with Ascend AI Processors'
     year: '2025'
   3x9auS0AAAAJ:UebtZRa9Y70C:
@@ -66,11 +66,11 @@ papers:
     title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
-    citations: 18
+    citations: 19
     title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
-    citations: 24
+    citations: 25
     title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
@@ -78,15 +78,15 @@ papers:
     title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
-    citations: 19
+    citations: 20
     title: 'NeutronStream: A dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
-    citations: 1
+    citations: 3
     title: Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing
     year: '2025'
   3x9auS0AAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 34
     title: 'Hongtu: Scalable full-graph GNN training on multiple gpus'
     year: '2023'
   3x9auS0AAAAJ:d1gkVwhDpl0C:
@@ -110,7 +110,7 @@ papers:
     title: Unified-memory-based hybrid processing for partition-oriented subgraph matching on GPU
     year: '2022'
   3x9auS0AAAAJ:u5HHmVD_uO8C:
-    citations: 26
+    citations: 27
     title: Automating incremental and asynchronous evaluation for recursive aggregate data processing
     year: '2020'
   3x9auS0AAAAJ:ufrVoPGSRksC:
