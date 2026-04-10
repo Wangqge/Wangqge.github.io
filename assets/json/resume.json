@@ -50,6 +50,12 @@
   ],
   "services": [
     {
+      "name": "Associate Editor",
+      "keywords": [
+        "The Journal of Supercomputing"
+      ]
+    },
+    {
       "name": "Conference PC",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
