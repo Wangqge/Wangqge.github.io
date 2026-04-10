@@ -43,9 +43,14 @@
       "awarder": "China Computer Federation"
     },
     {
+      "title": "Best of VLDB 2025",
+      "date": "2026-03",
+      "awarder": "VLDB 2025"
+    },
+    {
       "title": "APWEB-WAIM 2020 Best Paper Runner-up",
       "date": "2020-09",
-      "awarder": "APWEB-WAIM"
+      "awarder": "APWEB-WAIM 2020"
     }
   ],
   "services": [
