@@ -7,4 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-TBD
+Discrete Mathematics (Volume 1) 2026 Fall
