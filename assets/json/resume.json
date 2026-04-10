@@ -41,6 +41,11 @@
       "title": "Second Prize in Natural Sciences (中国计算机学会自然科学二等奖)",
       "date": "2023-10",
       "awarder": "China Computer Federation"
+    },   
+    {
+      "title": "Best of VLDB 2025",
+      "date": "2026-03",
+      "awarder": "VLDB 2025"
     },
     {
       "title": "APWEB-WAIM 2020 Best Paper Runner-up",
@@ -75,12 +80,11 @@
       "keywords": [
         "IEEE TKDE", 
         "IEEE TC",
-        "ACM TKDD"
+        "ACM TKDD",
         "Journal of Systems Architecture", 
         "Computer Networks", 
         "The Journal of Supercomputing",
         "Neurocomputing"
-        
       ]
     }
   ],
