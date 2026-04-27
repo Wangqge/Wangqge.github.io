@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-27'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
-    citations: 2
+    citations: 3
     title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 76
+    citations: 80
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
-    citations: 1
+    citations: 3
     title: 'NeutronRAG: Towards Understanding the Effectiveness of RAG from a Data Retrieval Perspective'
     year: '2025'
   3x9auS0AAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: 'DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention'
     year: '2025'
   3x9auS0AAAAJ:5nxA0vEk-isC:
@@ -22,7 +22,7 @@ papers:
     title: Survey on large-scale graph neural network systems
     year: '2021'
   3x9auS0AAAAJ:8k81kl-MbHgC:
-    citations: 8
+    citations: 11
     title: 'NeutronTP: Load-balanced distributed full-graph GNN training with tensor parallelism'
     year: '2024'
   3x9auS0AAAAJ:9yKSN-GCB0IC:
@@ -38,7 +38,7 @@ papers:
     title: "\u5927\u89C4\u6A21\u56FE\u795E\u7ECF\u7F51\u7EDC\u7CFB\u7EDF\u7EFC\u8FF0"
     year: '2021'
   3x9auS0AAAAJ:LkGwnXOMwfcC:
-    citations: 8
+    citations: 9
     title: 'BG3: A Cost Effective and I/O Efficient Graph Database in Bytedance'
     year: '2024'
   3x9auS0AAAAJ:M3ejUd6NZC8C:
@@ -46,7 +46,7 @@ papers:
     title: Towards Autonomous Graph Data Analytics with Analytics-Augmented Generation
     year: '2026'
   3x9auS0AAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 4
     title: 'NeutronTask: Scalable and efficient multi-GPU GNN training with task parallelism'
     year: '2025'
   3x9auS0AAAAJ:Se3iqnhoufwC:
@@ -66,11 +66,11 @@ papers:
     title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
-    citations: 19
+    citations: 21
     title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
-    citations: 25
+    citations: 30
     title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
@@ -78,7 +78,7 @@ papers:
     title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
-    citations: 20
+    citations: 23
     title: 'NeutronStream: A dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
@@ -86,7 +86,7 @@ papers:
     title: Efficient Graph Data Access for Out-of-Memory GPU Streaming Graph Processing
     year: '2025'
   3x9auS0AAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 36
     title: 'Hongtu: Scalable full-graph GNN training on multiple gpus'
     year: '2023'
   3x9auS0AAAAJ:d1gkVwhDpl0C:
@@ -101,8 +101,12 @@ papers:
     citations: 1
     title: 'Distributed graph processing: techniques and systems'
     year: '2020'
+  3x9auS0AAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'EvoRAG: Making Knowledge Graph-based RAG Automatically Evolve through Feedback-driven Backpropagation'
+    year: '2026'
   3x9auS0AAAAJ:roLk4NBRz8UC:
-    citations: 4
+    citations: 5
     title: Towards Efficient Graph Processing in Geo-Distributed Data Centers
     year: '2024'
   3x9auS0AAAAJ:u-x6o8ySG0sC:
