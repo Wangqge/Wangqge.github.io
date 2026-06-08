@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-08'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
     citations: 4
     title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 84
+    citations: 85
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
@@ -14,7 +14,7 @@ papers:
     title: 'NeutronRAG: Towards Understanding the Effectiveness of RAG from a Data Retrieval Perspective'
     year: '2025'
   3x9auS0AAAAJ:4TOpqqG69KYC:
-    citations: 1
+    citations: 2
     title: 'DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention'
     year: '2025'
   3x9auS0AAAAJ:5nxA0vEk-isC:
@@ -66,7 +66,7 @@ papers:
     title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
-    citations: 26
+    citations: 27
     title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
