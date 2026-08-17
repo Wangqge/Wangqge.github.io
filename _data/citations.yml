@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-17'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
-    citations: 4
-    title: Scalable and Load-Balanced Full-Graph GNN Training on Multiple GPUs
+    citations: 5
+    title: Scalable and load-balanced full-graph GNN training on multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
     citations: 89
@@ -18,15 +18,15 @@ papers:
     title: 'AcOrch: Accelerating Sampling-based GNN Training under CPU-NPU Heterogeneous Environments'
     year: '2026'
   3x9auS0AAAAJ:4TOpqqG69KYC:
-    citations: 4
+    citations: 5
     title: 'DepCache: A KV Cache Management Framework for GraphRAG with Dependency Attention'
     year: '2025'
   3x9auS0AAAAJ:5nxA0vEk-isC:
-    citations: 19
+    citations: 0
     title: Survey on large-scale graph neural network systems
     year: '2021'
   3x9auS0AAAAJ:8k81kl-MbHgC:
-    citations: 14
+    citations: 15
     title: 'NeutronTP: Load-balanced distributed full-graph GNN training with tensor parallelism'
     year: '2024'
   3x9auS0AAAAJ:9ZlFYXVOiuMC:
@@ -38,7 +38,7 @@ papers:
     title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0 (Survey of Data Storage and Query Techniques in Blockchain Systems)."
     year: '2018'
   3x9auS0AAAAJ:IjCSPb-OGe4C:
-    citations: 25
+    citations: 26
     title: 'HyTGraph: GPU-accelerated graph processing with hybrid transfer management'
     year: '2023'
   3x9auS0AAAAJ:KlAtU1dfN6UC:
@@ -47,7 +47,7 @@ papers:
     year: '2021'
   3x9auS0AAAAJ:LkGwnXOMwfcC:
     citations: 13
-    title: 'BG3: A Cost Effective and I/O Efficient Graph Database in Bytedance'
+    title: 'BG3: A cost effective and I/O efficient graph database in bytedance'
     year: '2024'
   3x9auS0AAAAJ:M3ejUd6NZC8C:
     citations: 0
@@ -74,11 +74,11 @@ papers:
     title: 'NeutronAscend: Optimizing GNN Training with Ascend AI Processors'
     year: '2025'
   3x9auS0AAAAJ:UebtZRa9Y70C:
-    citations: 3
+    citations: 4
     title: Towards communication-efficient out-of-core graph processing on the GPU
     year: '2025'
   3x9auS0AAAAJ:W7OEmFMy1HYC:
-    citations: 30
+    citations: 31
     title: 'NeutronOrch: Rethinking sample-based GNN training under CPU-GPU heterogeneous environments'
     year: '2023'
   3x9auS0AAAAJ:Wp0gIr-vW9MC:
@@ -87,22 +87,22 @@ papers:
     year: '2025'
   3x9auS0AAAAJ:Y0pCki6q_DkC:
     citations: 34
-    title: 'Comprehensive evaluation of gnn training systems: A data management perspective'
+    title: 'Comprehensive evaluation of GNN training systems: A data management perspective'
     year: '2023'
   3x9auS0AAAAJ:YOwf2qJgpHMC:
-    citations: 4
+    citations: 5
     title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
-    citations: 26
-    title: 'NeutronStream: A dynamic GNN training framework with sliding window for graph streams'
+    citations: 29
+    title: 'NeutronStream: a dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
     citations: 5
     title: Efficient graph data access for out-of-memory GPU streaming graph processing
     year: '2025'
   3x9auS0AAAAJ:_FxGoFyzp5QC:
-    citations: 42
+    citations: 45
     title: 'Hongtu: Scalable full-graph GNN training on multiple gpus'
     year: '2023'
   3x9auS0AAAAJ:aqlVkmm33-oC:
@@ -113,8 +113,12 @@ papers:
     citations: 4
     title: Partition-oriented subgraph matching on GPU
     year: '2020'
+  3x9auS0AAAAJ:dhFuZR0502QC:
+    citations: 20
+    title: Survey on large-scale graph neural network systems
+    year: '2022'
   3x9auS0AAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: 'Dupin: A parallel framework for densest subgraph discovery in fraud detection on massive graphs'
     year: '2025'
   3x9auS0AAAAJ:mVmsd5A6BfQC:
@@ -131,7 +135,7 @@ papers:
     year: '2026'
   3x9auS0AAAAJ:roLk4NBRz8UC:
     citations: 5
-    title: Towards Efficient Graph Processing in Geo-Distributed Data Centers
+    title: Towards efficient graph processing in geo-distributed data centers
     year: '2024'
   3x9auS0AAAAJ:u-x6o8ySG0sC:
     citations: 5
@@ -142,6 +146,6 @@ papers:
     title: Automating incremental and asynchronous evaluation for recursive aggregate data processing
     year: '2020'
   3x9auS0AAAAJ:ufrVoPGSRksC:
-    citations: 16
+    citations: 17
     title: 'Ragraph: A region-aware framework for geo-distributed graph processing'
     year: '2023'
