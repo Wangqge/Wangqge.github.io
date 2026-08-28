@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-28'
 papers:
   3x9auS0AAAAJ:0EnyYjriUFMC:
     citations: 5
     title: Scalable and load-balanced full-graph GNN training on multiple GPUs
     year: '2025'
   3x9auS0AAAAJ:2osOgNQ5qMEC:
-    citations: 89
+    citations: 90
     title: 'Neutronstar: distributed GNN training with hybrid dependency management'
     year: '2022'
   3x9auS0AAAAJ:3fE2CSJIrl8C:
@@ -38,7 +38,7 @@ papers:
     title: "\u533A\u5757\u94FE\u7CFB\u7EDF\u7684\u6570\u636E\u5B58\u50A8\u4E0E\u67E5\u8BE2\u6280\u672F\u7EFC\u8FF0 (Survey of Data Storage and Query Techniques in Blockchain Systems)."
     year: '2018'
   3x9auS0AAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: 'HyTGraph: GPU-accelerated graph processing with hybrid transfer management'
     year: '2023'
   3x9auS0AAAAJ:KlAtU1dfN6UC:
@@ -94,7 +94,7 @@ papers:
     title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
     year: '2025'
   3x9auS0AAAAJ:YsMSGLbcyi4C:
-    citations: 29
+    citations: 30
     title: 'NeutronStream: a dynamic GNN training framework with sliding window for graph streams'
     year: '2023'
   3x9auS0AAAAJ:Zph67rFs4hoC:
