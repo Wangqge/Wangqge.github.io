@@ -70,7 +70,7 @@
         "2024 ICDE",
         "2025 APWEB-WAIM",
         "2026 PAKDD/ ICDE Demo/ VLDB Demo/ ICDM",
-        "2027 VLDB/ ICDE"
+        "2027 VLDB/ ICDE/ WSDM/ DASFAA/ EDBT Demo"
       ]
     },
     {
@@ -78,7 +78,7 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "IEEE TKDE/ TMM/ TC", 
+        "IEEE TKDE/ TMM/ TC/ TPDS", 
         "ACM TKDD",
         "Journal of Systems Architecture", 
         "Journal of Parallel and Distributed Computing",
@@ -90,11 +90,25 @@
   ],
    "projects": [
     {
-      "name": "TBD",
-      "summary": "TBD",
+      "name": "图数据智能体系统 NSFC HWYQ",
+      "summary": "",
       "highlights": ["TBD", "TBD"],
-      "startDate": "20xx-01-01",
-      "endDate": "20yy-01-01"
+      "startDate": "2027-01-01",
+      "endDate": "2029-12-31"
+    }
+    {
+      "name": "面向图数据智能处理的任务协同关键技术研究 NSFC青年(C)",
+      "summary": "",
+      "highlights": ["TBD", "TBD"],
+      "startDate": "2027-01-01",
+      "endDate": "2029-12-31"
+    }
+    {
+      "name": "工业数据智能体系统 兴辽英才E计划",
+      "summary": "",
+      "highlights": ["TBD", "TBD"],
+      "startDate": "2027-01-01",
+      "endDate": "2029-12-31"
     }
   ]
 }
